@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Abdulrahman Daud Miraj <br>- 👀 I’m interested in becoming a full-stack developer<br>- 🌱 I’m currently learning Kotlin<br>- 💞️ I’m looking to collaborate on any interesting projects<br>- 📫 How to reach me daudabdulrahman22@gmail.com<br><br><!---<br>AbdulrahmanDaud10/AbdulrahmanDaud10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>--->
+- 👋 Hi, I’m @Abdulrahman Daud Miraj <br>- 👀 I’m interested in becoming a full-stack developer<br>- 🌱 I’m currently learning Kotlin<br>- 💞️ I’m looking to collaborate on any interesting projects<br>- 📫 How to reach me daudabdulrahman22@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
