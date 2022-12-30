@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Abdulrahman Daud Miraj <br>- 👀 I’m interested in becoming a full-stack developer<br>- 🌱 I’m currently learning Kotlin<br>- 💞️ I’m looking to collaborate on any interesting projects<br>- 📫 How to reach me daudabdulrahman22@gmail.com<br><br>
+- 👋 Hi, I’m @Abdulrahman Daud Miraj <br>- 👀 I’m interested in becoming a full-stack developer<br>- 🌱 I’m currently learning Kotlin<br>- 💞️ I’m looking to collaborate on any interesting projects<br> -Check out my portfolio https://www.abdulrahmanDaud10.github.io <br> - 📫 How to reach me daudabdulrahman22@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
